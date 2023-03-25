@@ -1,0 +1,11 @@
+button {
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 5px;
+  background-color: aqua;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
